@@ -13,7 +13,7 @@ Software Devlopment to me is about creating intricate yet simple and efficient s
 * 🌍  I'm based in Dallas, TX
 * ✉️  You can contact me at [raysadik5@gmail.com](mailto:raysadik5@gmail.com)
 * 🧠  I'm learning Javascript
-* 🤝  I'm open to collaborating on Game Development and Website Development
+* 🤝  I'm open to collaborating on Full-stack Development, Website Development, or Game Development
 
 ### Skills
 
